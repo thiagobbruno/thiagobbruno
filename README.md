@@ -1,7 +1,7 @@
 <h1 align="left">Hi! I'm Thiago Barbosa Bruno</h1>
 <h3 align="left">A passionate frontend Data analyst from Brazil</h3>
 
-- I’m currently learning **SQL, R, Tableau and Excel in Data analyst courses**
+- I’m currently learning **SQL, Python, Tableau, PowerBI and Excel in Data analyst courses**
 
 - How to reach me: **thiago.barbosa2001@hotmail.com**
 
