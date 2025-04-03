@@ -3,7 +3,7 @@
 
 - I’m currently learning **SQL, Python, Tableau, PowerBI and Excel in Data analyst courses**
 
-- How to reach me: **thiago.barbosa2001@hotmail.com** and +55(013)99145-1693
+- How to reach me: **thiago.barbosa2001@hotmail.com** and +55 13 99145-1693
 
 - Fun fact: **My favorite hobby is to watch movies and series!**
 
